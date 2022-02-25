@@ -1,0 +1,15 @@
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\bin\Debug\net6.0\JogoDoDado.exe
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\bin\Debug\net6.0\JogoDoDado.deps.json
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\bin\Debug\net6.0\JogoDoDado.runtimeconfig.json
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\bin\Debug\net6.0\JogoDoDado.dll
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\bin\Debug\net6.0\JogoDoDado.pdb
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.csproj.AssemblyReference.cache
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.AssemblyInfoInputs.cache
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.AssemblyInfo.cs
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.dll
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\refint\JogoDoDado.dll
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.pdb
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\JogoDoDado.genruntimeconfig.cache
+C:\Users\Cristiano Lago\Documents\projetosC#\JogoDoDado\JogoDoDado\obj\Debug\net6.0\ref\JogoDoDado.dll

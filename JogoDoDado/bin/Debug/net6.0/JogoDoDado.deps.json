@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JogoDoDado/1.0.0": {
+        "runtime": {
+          "JogoDoDado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JogoDoDado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
